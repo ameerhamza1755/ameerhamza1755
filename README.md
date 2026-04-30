@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ameer Hamza</h1>
-<h3 align="center">Cyber Security Student | Passionate Developer | Tech Enthusiast</h3>
+<h1 align="center">Hi 👋, I'm AMEER  HAMZA </h1>
+<h3 align="center">Cyber Security Student | Passionate Penetration tester |Passionate Ethical Hacker | Tech Enthusiast</h3>
 <div align="center">
 
 ---
