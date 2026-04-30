@@ -3,9 +3,13 @@
 <h1 align="center" > Hi 👋 I'm Ameer Hamza  </h1>
 <p align="center">
   
-![Cyber Security](https://img.shields.io/badge/Cyber%20Security-Student-00FF00?style=for-the-badge)
-![Ethical Hacker](https://img.shields.io/badge/Ethical-Hacker-red?style=for-the-badge)
-![Pentesting](https://img.shields.io/badge/Penetration-Tester-black?style=for-the-badge)
+┌──(ameer㉿kali)-[~/profile]
+└─$ role
+
+Cyber Security Student
+Ethical Hacker
+Penetration Tester
+CTF Player
 
 </p>
 
