@@ -3,7 +3,7 @@
 <div align="center">
 
 ---
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a2e,100:0057ff&height=180&section=header&text=Syed%20Mujtaba%20Zaidi&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20Researcher%20%7C%20Ethical%20Hacker%20%7C%20CTF%20Player&descAlignY=55&descSize=17" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a2e,100:0057ff&height=180&section=header&text=AMEER HAMZA&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20Researcher%20%7C%20Ethical%20Hacker%20%7C%20CTF%20Player&descAlignY=55&descSize=17" />
 
 ## 👨‍💻 About Me
 - 🎓 BS Cyber Security Student  
