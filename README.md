@@ -22,10 +22,10 @@
 
 ## 🛠️ Skills & Tools
 - 💻 Languages: C++, Python, JavaScript  
-- 🌐 Web: HTML, CSS, React (Basic)  
+- 🌐 Web: HTML, CSS 
 - 🔐 Cyber Security: Networking, Ethical Hacking (Learning)  
-- 🗄️ Database: MySQL  
-- ⚙️ Tools: Git, GitHub, Linux  
+- 🗄️ Database: MySQL, Nosql  
+- ⚙️ Tools: Git, GitHub, Linux
 </div>
 
 ---
