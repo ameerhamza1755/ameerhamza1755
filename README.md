@@ -3,11 +3,9 @@
 <h1 align="center" > Hi 👋 I'm Ameer Hamza  </h1>
 <p align="center">
 
-![Cyber Security](https://img.shields.io/badge/🛡️%20Cyber%20Security-Student-2ea44f?style=for-the-badge)
-
-![Ethical Hacker](https://img.shields.io/badge/🔐%20Ethical-Hacker-1f6feb?style=for-the-badge)
-
-![Penetration Tester](https://img.shields.io/badge/💻%20Penetration-Tester-8250df?style=plastic)
-
+![Cyber Security](https://img.shields.io/badge/🛡️%20Cyber%20Security-Student-00FF00?style=for-the-badge)
+![Penetration Tester](https://img.shields.io/badge/💻%20Penetration-Tester-000000?style=for-the-badge)
+![Ethical Hacker](https://img.shields.io/badge/🔐%20Ethical-Hacker-FF0000?style=for-the-badge)
+![Passionate](https://img.shields.io/badge/⚡-Passionate-FFA500?style=for-the-badge)
 
 </p>
