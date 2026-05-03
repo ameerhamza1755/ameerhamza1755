@@ -3,7 +3,6 @@
 <h1 align="center" > Hi 👋 I'm Ameer Hamza  </h1>
 <p align="center">
   
-Cyber Security Student | Passionate Penetration Tester | Passionate Ethical Hacker 
+  Cyber Security Student | Passionate Penetration Tester | Passionate Ethical Hacker 
 
 </p>
-
