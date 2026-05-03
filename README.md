@@ -18,7 +18,7 @@
 <br>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&duration=4000&pause=2000&color=003300&bg_color=%2300FF41&center=true&vCenter=true&repeat=true&width=600&height=70&lines=🧠+IDENTITY+MODULE" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&duration=4000&pause=2000&color=00FF41&bg_color=%23001a00&center=true&vCenter=true&repeat=true&width=600&height=70&lines=🧠+IDENTITY+MODULE" />
 </p>
 
 <br>
