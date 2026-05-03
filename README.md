@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a2e,100:00FF41&height=180&section=header&text=Ameer%20Hamza&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cyber%20Security%20Student%20%7C%20Ethical%20Hacker%20%7C%20CTF%20Player&descAlignY=55&descSize=17" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a2e,100:00FF41&height=180&section=header&text=Ameer%20Hamza&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=50" />
 </div>
 
 <h1 align="center">Hi 👋 I'm Ameer Hamza</h1>
