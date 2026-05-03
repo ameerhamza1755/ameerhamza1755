@@ -3,13 +3,7 @@
 <h1 align="center" > Hi 👋 I'm Ameer Hamza  </h1>
 <p align="center">
   
-┌──(ameer㉿kali)-[~/profile]
-└─$ role
-
-Cyber Security Student
-Ethical Hacker
-Penetration Tester
-CTF Player
+Cyber Security Student | Passionate Penetration Tester | Passionate Ethical Hacker 
 
 </p>
 
