@@ -38,13 +38,13 @@
 <br>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/　　　⚡　　SKILL　　MATRIX　　　-0D1117?style=for-the-badge&labelColor=FF0000&color=0D1117" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=FF0000&height=50&section=header&text=⚡%20SKILL%20MATRIX&fontSize=28&fontColor=ffffff&fontAlign=50" />
 </p>
 
 <br>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/　　　🔐　　CYBER　　SECURITY　　SKILLS　　　-0D1117?style=for-the-badge&labelColor=FF6600&color=0D1117" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=FF6600&height=50&section=header&text=🔐%20CYBER%20SECURITY%20SKILLS&fontSize=28&fontColor=ffffff&fontAlign=50" />
 </p>
 
 <br>
@@ -61,7 +61,7 @@
 <br>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/　　　💻　　PROGRAMMING　　%26　　TOOLS　　　-0D1117?style=for-the-badge&labelColor=0078D4&color=0D1117" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0078D4&height=50&section=header&text=💻%20PROGRAMMING%20%26%20TOOLS&fontSize=28&fontColor=ffffff&fontAlign=50" />
 </p>
 
 <br>
@@ -85,7 +85,7 @@
 <br>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/　　　🏆　　CTF　　ACHIEVEMENTS　　　-0D1117?style=for-the-badge&labelColor=FFD700&color=0D1117" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=FFD700&height=50&section=header&text=🏆%20CTF%20ACHIEVEMENTS&fontSize=28&fontColor=0D1117&fontAlign=50" />
 </p>
 
 <br>
