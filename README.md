@@ -9,6 +9,10 @@
   <img src="https://img.shields.io/badge/🔐%20Ethical-Hacker-FF0000?style=for-the-badge" />
 </p>
 
+<p align="center">
+  <img src="your-small-gif.gif" width="200"/>
+</p>
+
 ## 👨‍💻 About Me
 
 ```bash
