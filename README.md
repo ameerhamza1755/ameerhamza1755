@@ -8,6 +8,9 @@
   <img src="https://img.shields.io/badge/💻%20Penetration-Tester-000000?style=for-the-badge" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/🔐%20Ethical-Hacker-FF0000?style=for-the-badge" />
 </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ameerhamza1755&show_icons=true&theme=tokyonight" />
+</p>
 
 ## 🧠 IDENTITY MODULE
 
