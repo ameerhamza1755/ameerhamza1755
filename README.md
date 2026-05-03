@@ -34,21 +34,16 @@
 
 ### 💻 Programming & Tools
 
-### 💻 Programming
-![C++](https://img.shields.io/badge/C++-70%25-blue?style=flat-square&logo=cplusplus)
-![Java](https://img.shields.io/badge/Java-60%25-orange?style=flat-square&logo=java)
+### 💻 Programming & Tools
 
-### 🌐 Web Development
-![HTML](https://img.shields.io/badge/HTML-80%25-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-70%25-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-### 🗄️ Database
-![SQL](https://img.shields.io/badge/SQL-65%25-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![DBMS](https://img.shields.io/badge/DBMS-60%25-F80000?style=flat-square&logo=oracle&logoColor=white)
-
-### 🌐 Networking
-![Networking](https://img.shields.io/badge/Networking-50%25-00897B?style=flat-square&logo=cisco&logoColor=white)
-
-### ⚙️ Tools
-![Linux](https://img.shields.io/badge/Linux-75%25-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Kali Linux](https://img.shields.io/badge/Kali-70%25-557C94?style=flat-square&logo=kalilinux&logoColor=white)
+| Skill | Progress | Level |
+|-------|----------|-------|
+| ⚙️ C++ | `████████████████░░░░` | ![70%](https://img.shields.io/badge/70%25-Intermediate-blue?style=flat-square&logo=cplusplus&logoColor=white) |
+| ☕ Java | `████████████░░░░░░░░` | ![60%](https://img.shields.io/badge/60%25-Intermediate-FF6600?style=flat-square&logo=java&logoColor=white) |
+| 🌐 HTML | `████████████████░░░░` | ![80%](https://img.shields.io/badge/80%25-Advanced-E34F26?style=flat-square&logo=html5&logoColor=white) |
+| 🎨 CSS | `██████████████░░░░░░` | ![70%](https://img.shields.io/badge/70%25-Intermediate-1572B6?style=flat-square&logo=css3&logoColor=white) |
+| 🗄️ SQL | `█████████████░░░░░░░` | ![65%](https://img.shields.io/badge/65%25-Intermediate-4479A1?style=flat-square&logo=mysql&logoColor=white) |
+| 📦 DBMS | `████████████░░░░░░░░` | ![60%](https://img.shields.io/badge/60%25-Intermediate-F80000?style=flat-square&logo=oracle&logoColor=white) |
+| 🌐 Networking | `██████████░░░░░░░░░░` | ![50%](https://img.shields.io/badge/50%25-Learning-00897B?style=flat-square&logo=cisco&logoColor=white) |
+| 🐧 Linux | `███████████████░░░░░` | ![75%](https://img.shields.io/badge/75%25-Advanced-FCC624?style=flat-square&logo=linux&logoColor=black) |
+| 💀 Kali Linux | `██████████████░░░░░░` | ![70%](https://img.shields.io/badge/70%25-Advanced-557C94?style=flat-square&logo=kalilinux&logoColor=white) |
