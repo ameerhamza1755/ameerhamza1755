@@ -51,6 +51,7 @@
 
 ## 🏆 CTF ACHIEVEMENTS
 
+```bash
 root@ameer-hamza:~$ cat achievements.log
 
 [+] Loading CTF Records...
