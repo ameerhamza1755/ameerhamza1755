@@ -25,6 +25,8 @@
 
 <br>
 
+<img align="left" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcG0wNXRvNTNqd3NhMXd2aWdnbWRodG9qYmQ0MDhmMnZ5bm1yOXR3ZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/nn4FAqmnGul76gcdIg/giphy.gif" width="280" />
+
 | | |
 |---|---|
 | 👤 **NAME** | Ameer Hamza |
@@ -33,7 +35,7 @@
 | 🎮 **MODE** | CTF Player |
 | 🚀 **MISSION** | Become Cyber Security Expert |
 
-<br>
+<br clear="left"/>
 
 ---
 
