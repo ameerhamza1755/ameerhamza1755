@@ -29,7 +29,7 @@ CTF Player
 > Goal: Cyber Security Expert ( Ethical Hacker )
 
 </div>
-<be><br>
+
 <div>
 ## skills 
 </div>
