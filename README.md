@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?lines=Loading+Profile...;Access+Granted" />
+  <img src="https://readme-typing-svg.demolab.com?lines=Welcome+to+Ameer's+Portfolio;Make+yourself+secure+today&color=FF0000" />
 </p>
 
 ## 👨‍💻 About Me
