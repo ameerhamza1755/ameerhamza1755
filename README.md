@@ -18,7 +18,7 @@
 <br>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&duration=2000&pause=500&color=00FF41&center=true&vCenter=true&repeat=true&width=600&height=70&lines=🧠+IDENTITY+MODULE" alt="Identity Module" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&duration=2000&pause=500&color=00FF41&background=0D1117&center=true&vCenter=true&repeat=true&width=600&height=70&lines=🧠+IDENTITY+MODULE" alt="Identity Module" />
 </p>
 
 <br>
