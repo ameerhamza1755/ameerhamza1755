@@ -19,7 +19,9 @@
 | 🎮 **MODE** | CTF Player |
 | 🚀 **MISSION** | Become Cyber Security Expert |
 
+
 ## ⚡ SKILL MATRIX
+
 
 ### 🔐 Cyber Security Skills
 
@@ -32,7 +34,6 @@
 | 🔭 Rev Eng | `███████████░░░░░░░░░` | ![55%](https://img.shields.io/badge/55%25-Intermediate-00FF00?style=flat-square) |
 | 🐛 Bug Bounty | `█████████░░░░░░░░░░░` | ![45%](https://img.shields.io/badge/45%25-GRINDING...-00BFFF?style=flat-square) |
 
-### 💻 Programming & Tools
 
 ### 💻 Programming & Tools
 
