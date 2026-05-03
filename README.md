@@ -21,6 +21,19 @@
 
 ## ⚡ SKILL MATRIX
 
+### 🔐 Cyber Security Skills
+
+| Skill | Progress | Level |
+|-------|----------|-------|
+| 💉 Pentesting | `████████████████░░░░` | ![80%](https://img.shields.io/badge/80%25-Expert-FF0000?style=flat-square) |
+| 🌐 Web Security | `████████████████░░░░` | ![80%](https://img.shields.io/badge/80%25-Expert-FF6600?style=flat-square) |
+| 🐧 Linux | `███████████████░░░░░` | ![75%](https://img.shields.io/badge/75%25-Advanced-FFA500?style=flat-square) |
+| 🔑 Cryptography | `████████████░░░░░░░░` | ![60%](https://img.shields.io/badge/60%25-Intermediate-FFFF00?style=flat-square) |
+| 🔭 Rev Eng | `███████████░░░░░░░░░` | ![55%](https://img.shields.io/badge/55%25-Intermediate-00FF00?style=flat-square) |
+| 🐛 Bug Bounty | `█████████░░░░░░░░░░░` | ![45%](https://img.shields.io/badge/45%25-GRINDING...-00BFFF?style=flat-square) |
+
+### 💻 Programming & Tools
+
 ### 💻 Programming
 ![C++](https://img.shields.io/badge/C++-70%25-blue?style=flat-square&logo=cplusplus)
 ![Java](https://img.shields.io/badge/Java-60%25-orange?style=flat-square&logo=java)
@@ -35,10 +48,6 @@
 
 ### 🌐 Networking
 ![Networking](https://img.shields.io/badge/Networking-50%25-00897B?style=flat-square&logo=cisco&logoColor=white)
-
-### 🧠 Cyber Security
-![CTF](https://img.shields.io/badge/CTF-55%25-FF0000?style=flat-square&logo=hackthebox&logoColor=white)
-![Ethical Hacking](https://img.shields.io/badge/Ethical%20Hacking-60%25-darkgreen?style=flat-square&logo=kalilinux&logoColor=white)
 
 ### ⚙️ Tools
 ![Linux](https://img.shields.io/badge/Linux-75%25-FCC624?style=flat-square&logo=linux&logoColor=black)
