@@ -18,7 +18,7 @@
 <br>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=1&pause=1000&color=00FF41&center=true&vCenter=true&repeat=false&width=500&height=60&lines=🧠+IDENTITY+MODULE" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=00FF41&height=50&section=header&text=🧠%20IDENTITY%20MODULE&fontSize=28&fontColor=0D1117&fontAlign=50" />
 </p>
 
 <br>
