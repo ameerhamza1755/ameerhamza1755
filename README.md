@@ -18,12 +18,7 @@
 <br>
 
 <p align="center">
-  <a href="#">
-    <img src="https://capsule-render.vercel.app/api?type=rect&color=FF0000&height=70&fontSize=1&width=800" />
-  </a>
-</p>
-<p align="center" style="margin-top:-70px;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&duration=4000&pause=2000&color=ffffff&center=true&vCenter=true&repeat=true&width=800&height=70&lines=🧠+IDENTITY+MODULE" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&duration=4000&pause=2000&color=00FF41&center=true&vCenter=true&repeat=true&width=600&height=70&lines=🧠+IDENTITY+MODULE" />
 </p>
 
 <br>
