@@ -1,6 +1,6 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExenA2MHlpZ3hueXdqZ3k0Znd3NzF0Y2M3NXhicnp3Z2VleWd2NWxodyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qQgKLMJvWEZKI2Hfvo/giphy.gif" width="500" />
-</p>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a2e,100:00FF41&height=180&section=header&text=Ameer%20Hamza&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cyber%20Security%20Student%20%7C%20Ethical%20Hacker%20%7C%20CTF%20Player&descAlignY=55&descSize=17" />
+</div>
 
 <h1 align="center">Hi 👋 I'm Ameer Hamza</h1>
 
