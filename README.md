@@ -12,8 +12,8 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?lines=Welcome+to+Ameer's+Portfolio+!;Make+yourself+secure+today+!&color=FF0000" />
 </p>
-
-## 👨‍💻 About Me
+<div>
+ ## 👨‍💻 About Me
 
 ```bash
 ┌──(ameer㉿kali)-[~/about]
@@ -28,5 +28,7 @@ CTF Player
 > Currently learning penetration testing & web security
 > Goal: Cyber Security Expert ( Ethical Hacker )
 
-## Ameer Hamza's Skills 💍
+</div>
+## skills 
+
 
