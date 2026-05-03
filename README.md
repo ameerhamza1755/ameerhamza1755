@@ -2,7 +2,9 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a2e,100:00FF41&height=180&section=header&text=Ameer%20Hamza&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=50" />
 </div>
 
-<h1 align="center">Hi 👋 I'm Ameer Hamza</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&repeat=true&width=600&height=70&lines=root%40ameer-hamza%3A~%24;Welcome+to+Ameer+Hamza's+Portfolio!;Secure+yourself+today+for+a+better+tomorrow." />
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/⚡-Passionate-FFA500?style=for-the-badge" />&nbsp;&nbsp;
