@@ -7,7 +7,7 @@
 
 ![Ethical Hacker](https://img.shields.io/badge/🔐%20Ethical-Hacker-1f6feb?style=for-the-badge)
 
-![Penetration Tester](https://img.shields.io/badge/💻%20Penetration-Tester-8250df?style=flat)
+![Penetration Tester](https://img.shields.io/badge/💻%20Penetration-Tester-8250df?style=plastic)
 
 
 </p>
