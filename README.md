@@ -1,4 +1,4 @@
- <p align ="center"><img src = "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExenA2MHlpZ3hueXdqZ3k0Znd3NzF0Y2M3NXhicnp3Z2VleWd2NWxodyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qQgKLMJvWEZKI2Hfvo/giphy.gif" width="500" /> </p>
+<p align ="center"><img src = "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExenA2MHlpZ3hueXdqZ3k0Znd3NzF0Y2M3NXhicnp3Z2VleWd2NWxodyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qQgKLMJvWEZKI2Hfvo/giphy.gif" width="500" /> </p>
 
 <h1 align="center" > Hi 👋 I'm Ameer Hamza  </h1>
 
@@ -9,18 +9,16 @@
   <img src="https://img.shields.io/badge/🔐%20Ethical-Hacker-FF0000?style=for-the-badge" />
 </p>
 
+## 🧠 IDENTITY MODULE
 
+| | |
+|---|---|
+| 👤 **NAME** | Ameer Hamza |
+| 🎯 **ROLE** | Cyber Security Student |
+| ⚡ **STATUS** | Ethical Hacker (Training) |
+| 🎮 **MODE** | CTF Player |
+| 🚀 **MISSION** | Become Cyber Security Expert |
 
-┌──────────────────────────────────────┐
-│           USER PROFILE               │
-├──────────────────────────────────────┤
-│ NAME   : Ameer Hamza                │
-│ ROLE   : Cyber Security Student     │
-│ STATUS : Ethical Hacker (Training)  │
-│ MODE   : CTF Player                 │
-├──────────────────────────────────────┤
-│ MISSION: Become Cyber Security Expert│
-└──────────────────────────────────────┘
 ## ⚡ SKILL MATRIX
 
 ### 💻 Programming
