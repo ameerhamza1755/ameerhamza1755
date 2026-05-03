@@ -16,10 +16,10 @@
 └─$ whoami
 
 Ameer Hamza
-Cyber Security Student @ Riphah University
+Cyber Security Student @ Riphah International University
 Aspiring Ethical Hacker
-CTF Learner
+CTF Player
 
 > Exploring vulnerabilities to understand systems
 > Currently learning penetration testing & web security
-> Goal: Cyber Security Expert + Pakistan Army 🇵🇰
+> Goal: Cyber Security Expert ( Ethical Hacker )
