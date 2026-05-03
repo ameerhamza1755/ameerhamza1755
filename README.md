@@ -8,4 +8,19 @@
   <img src="https://img.shields.io/badge/💻%20Penetration-Tester-000000?style=for-the-badge" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/🔐%20Ethical-Hacker-FF0000?style=for-the-badge" />
 </p>
+
 ## About me 
+## 👨‍💻 About Me
+
+```bash
+┌──(ameer㉿kali)-[~/about]
+└─$ whoami
+
+Ameer Hamza
+Cyber Security Student @ Riphah University
+Aspiring Ethical Hacker
+CTF Learner
+
+> Exploring vulnerabilities to understand systems
+> Currently learning penetration testing & web security
+> Goal: Cyber Security Expert + Pakistan Army 🇵🇰
