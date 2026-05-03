@@ -48,3 +48,22 @@
 | 🌐 Networking | `██████████░░░░░░░░░░` | ![50%](https://img.shields.io/badge/50%25-Learning-00897B?style=flat-square&logo=cisco&logoColor=white) |
 | 🐧 Linux | `███████████████░░░░░` | ![75%](https://img.shields.io/badge/75%25-Advanced-FCC624?style=flat-square&logo=linux&logoColor=black) |
 | 💀 Kali Linux | `██████████████░░░░░░` | ![70%](https://img.shields.io/badge/70%25-Advanced-557C94?style=flat-square&logo=kalilinux&logoColor=white) |
+
+## 🏆 CTF ACHIEVEMENTS
+
+root@ameer-hamza:~$ cat achievements.log
+
+[+] Loading CTF Records...
+
+╔══════════════════════════════════════════════════════════╗
+║  🥇 Air CTF 2025         │  TOP 6   │  Team: StealthWorm ║
+║  🎯 PCC 2025             │  #54/274+│  8 Flags Captured  ║
+║  🏅 NaSCon'25 FAST-NUCES │  #23/50+ │  Team: StealthWorm ║
+║  ⚡ AirOverflow Wargames │  15 Challs Solved              ║
+╚══════════════════════════════════════════════════════════╝
+
+[✔] Total Events : 4
+[✔] Best Rank    : TOP 6 (Air CTF 2025)
+[✔] Team         : StealthWorm
+[✔] Status       : ACTIVE THREAT 🔴
+```
