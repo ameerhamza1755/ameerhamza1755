@@ -18,13 +18,7 @@
 <br>
 
 <p align="center">
-  <table>
-    <tr>
-      <td style="background-color:#0D1117; padding:10px; border-radius:10px;">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&duration=2000&pause=500&color=00FF41&center=true&vCenter=true&repeat=true&width=600&height=70&lines=🧠+IDENTITY+MODULE" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=60&text=🧠%20IDENTITY%20MODULE&fontSize=28&fontColor=00FF41&fontAlign=50&stroke=00FF41&strokeWidth=2&width=800" />
 </p>
 
 <br>
