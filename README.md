@@ -18,7 +18,7 @@
 <br>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/　　　🧠　　IDENTITY　　MODULE　　　-0D1117?style=for-the-badge&labelColor=00FF41&color=0D1117" />
+  <img src="https://img.shields.io/badge/　　　🧠　　IDENTITY　　MODULE　　　-0D1117?style=for-the-badge&labelColor=00FF41&color=0D1117" height="40" />
 </p>
 
 <br>
