@@ -18,7 +18,7 @@
 <br>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/　　　🧠　　IDENTITY　　MODULE　　　-0D1117?style=for-the-badge&labelColor=00FF41&color=0D1117" height="90" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=1&pause=1000&color=00FF41&center=true&vCenter=true&repeat=false&width=500&height=60&lines=🧠+IDENTITY+MODULE" />
 </p>
 
 <br>
