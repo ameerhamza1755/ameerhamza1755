@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="your-small-gif.gif" width="200"/>
+  <img src="https://readme-typing-svg.demolab.com?lines=Loading+Profile...;Access+Granted" />
 </p>
 
 ## 👨‍💻 About Me
