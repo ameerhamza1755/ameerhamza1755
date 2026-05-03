@@ -18,7 +18,7 @@
 <br>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=80&text=IDENTITY%20MODULE&fontSize=28&fontColor=0D1117&fontAlign=50&animation=twinkling&width=800" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&duration=2000&pause=500&color=00FF41&center=true&vCenter=true&repeat=true&width=600&height=70&lines=🧠+IDENTITY+MODULE" alt="Identity Module" />
 </p>
 
 <br>
