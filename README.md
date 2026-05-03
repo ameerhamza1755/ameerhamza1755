@@ -8,12 +8,7 @@
   <img src="https://img.shields.io/badge/💻%20Penetration-Tester-000000?style=for-the-badge" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/🔐%20Ethical-Hacker-FF0000?style=for-the-badge" />
 </p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ameerhamza1755&show_icons=true&theme=tokyonight" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ameerhamza1755&theme=chartreuse-dark&hide_border=true" />
-</p>
+
 
 ## 🧠 IDENTITY MODULE
 
@@ -29,3 +24,17 @@
 │ MISSION: Become Cyber Security Expert│
 └──────────────────────────────────────┘
 
+<div align="center">
+╔══════════════════════════════════════╗
+║           SKILL MATRIX              ║
+╠══════════════════════════════════════╣
+║ 💻 PROGRAMMING : C++ | Java         ║
+║ 🌐 WEB         : HTML | CSS         ║
+║ 🗄️ DATABASE    : SQL | DBMS         ║
+║ 🌐 NETWORKING  : Basics             ║
+║ 🧠 SECURITY    : CTF | Ethical Hack ║
+║ ⚙️ TOOLS       : Linux | Kali       ║
+╠══════════════════════════════════════╣
+║ STATUS: LEARNING & BUILDING SKILLS  ║
+╚══════════════════════════════════════╝
+</div> 
