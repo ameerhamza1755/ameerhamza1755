@@ -18,7 +18,7 @@
 <br>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=60&text=🧠%20IDENTITY%20MODULE&fontSize=28&fontColor=00FF41&fontAlign=50&stroke=00FF41&strokeWidth=2&width=800" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=FF0000&height=60&text=🧠%20IDENTITY%20MODULE&fontSize=28&fontColor=ffffff&fontAlign=50&stroke=ffffff&strokeWidth=2&width=800" />
 </p>
 
 <br>
