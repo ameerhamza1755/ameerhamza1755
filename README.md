@@ -28,27 +28,44 @@ CTF Player
 > Currently learning penetration testing & web security
 > Goal: Cyber Security Expert ( Ethical Hacker )
 
+
+
+```md id="sty002"
+
 ## 🛠️ Skills
 
 ### 💻 Programming
-- C++
-- Java
+
+━━━━━━━━━━━━━━
+
+C++ • Java
 
 ### 🌐 Web Development
-- HTML
-- CSS
+
+━━━━━━━━━━━━━━
+
+HTML • CSS
 
 ### 🗄️ Database
-- SQL
-- Database Management
+
+━━━━━━━━━━━━━━
+
+SQL • Database Management
 
 ### 🌐 Networking
-- Networking Basics
+
+━━━━━━━━━━━━━━
+
+Networking Basics
 
 ### 🧠 Cyber Security
-- CTF Player
-- Ethical Hacking (Learning)
+
+━━━━━━━━━━━━━━
+
+CTF Player • Ethical Hacking (Learning)
 
 ### 📂 Others
-- Projects Development
-- Certifications (In Progress)
+
+━━━━━━━━━━━━━━
+
+Projects Development • Certifications (In Progress)
