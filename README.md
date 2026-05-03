@@ -28,5 +28,5 @@ CTF Player
 > Currently learning penetration testing & web security
 > Goal: Cyber Security Expert ( Ethical Hacker )
 
-## Ameer Hamza's Skills 
+## Ameer Hamza's Skills 💍
 
