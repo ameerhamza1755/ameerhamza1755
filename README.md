@@ -18,7 +18,7 @@
 <br>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=00FF41&height=50&section=header&text=🧠%20IDENTITY%20MODULE&fontSize=28&fontColor=0D1117&fontAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=80&text=🧠%20IDENTITY%20MODULE&fontSize=28&fontColor=0D1117&fontAlign=50&animation=fadeIn" />
 </p>
 
 <br>
